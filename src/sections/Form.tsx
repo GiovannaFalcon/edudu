@@ -9,7 +9,7 @@ export function Form() {
             Do you still have any questions?
           </h1>
           <p className="text-white/80 text-base md:text-lg max-w-2xl mx-auto">
-            Don't hesitate to leave us your phone number. We will contact you to
+            Dont hesitate to leave us your phone number. We will contact you to
             discuss any questions you may have
           </p>
         </div>
