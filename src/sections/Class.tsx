@@ -14,7 +14,7 @@ export function Class() {
       <div className="pt-36 pb-26">
         <div className="text-center">
           <h1 className="text-center font-extrabold text-2xl md:text-3xl lg:text-4xl">
-            What's in the class at Edudu?
+            Whats in the class at Edudu?
           </h1>
           <p className="mx-auto text-center text-[#1F1C14]/70 mt-3 max-w-[540px] md:max-w-[640px] lg:max-w-[640px] text-[16px]">
             Online classes with teachers, continuous questions and answers

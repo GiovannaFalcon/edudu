@@ -20,14 +20,14 @@ export function Choose() {
       alt: "Book Icon",
       title: "Creative program",
       description:
-        "Design curriculum based on each student's ability and needs, engaging learning activities, continuous two-way interaction.",
+        "Design curriculum based on each students ability and needs, engaging learning activities, continuous two-way interaction.",
     },
     {
       icon: MoneyIcon,
       alt: "Money Icon",
       title: "Appropriate cost",
       description:
-        "Flexible payment, suitable to personal financial situation and study schedule. Pay monthly, by course or 'study now, pay later'.",
+        "Flexible payment, suitable to personal financial situation and study schedule. Pay monthly, by course or study now, pay later.",
     },
   ];
 
