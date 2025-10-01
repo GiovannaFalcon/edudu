@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 import TeacherIcon from "@/assets/teachericon.svg";
 import BookIcon from "@/assets/bookicon.svg";
