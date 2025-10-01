@@ -67,7 +67,7 @@ export function Footer() {
               </a>
             ))}
           </div>
-          <p className="text-sm text-[#1F1C14] mt-10">©2020 Edudu.co</p>
+          <p className="text-sm text-[#1F1C14] mt-10">2020 Edudu.co</p>
           <p className="text-sm text-[#1F1C14]">
             Edudu is a registered trademark of Edudu.co
           </p>
